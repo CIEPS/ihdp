@@ -58,7 +58,7 @@ function parser (tokens) {
         current++;
         continue;
       }
-      result.data = token.value;
+      result.data = token.value.trim();
     }
     if (token.type === 'eol') {
       current++;
