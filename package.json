@@ -15,5 +15,8 @@
     "chai": "^4.2.0",
     "mocha": "^7.1.1",
     "nyc": "^15.0.1"
+  },
+  "dependencies": {
+    "commander": "^5.0.0"
   }
 }
