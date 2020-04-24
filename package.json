@@ -1,0 +1,19 @@
+{
+  "name": "ihdp",
+  "version": "0.0.1",
+  "description": "Indented Hierarchical Data Parser",
+  "main": "src/ihdp.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text mocha"
+  },
+  "author": "rmeja@issn.org",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "nyc": "^15.0.1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "data": "root",
+  "children": [
+    {
+      "level": 0,
+      "data": "Main title",
+      "children": [
+        {
+          "level": 1,
+          "data": "SubTitle 1",
+          "children": [
+            {
+              "level": 2,
+              "data": "Chapter 1.1",
+              "children": []
+            },
+            {
+              "level": 2,
+              "data": "Chapter 1.2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "data": "SubTitle 2",
+          "children": [
+            {
+              "level": 2,
+              "data": "Chapter 2.1",
+              "children": [
+                {
+                  "level": 3,
+                  "data": "SubChapter 2.1.1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "data": "Chapter 2.2",
+              "children": []
+            },
+            {
+              "level": 2,
+              "data": "Chapter 2.3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
