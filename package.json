@@ -13,10 +13,10 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.1",
-    "nyc": "^15.0.1"
+    "mocha": "^8.0.1",
+    "nyc": "^15.1.0"
   },
   "dependencies": {
-    "commander": "^5.0.0"
+    "commander": "^6.0.0"
   }
 }
