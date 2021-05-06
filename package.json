@@ -1,6 +1,6 @@
 {
   "name": "ihdp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Indented Hierarchical Data Parser",
   "main": "src/ihdp.js",
   "directories": {
